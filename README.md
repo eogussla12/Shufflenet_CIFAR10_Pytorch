@@ -1,7 +1,3 @@
-# Shufflenet_CIFAR10_Pytorch
-
-Pytorch-Shufflenet-CIFAR10
-
 # ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 
 ### Author 
